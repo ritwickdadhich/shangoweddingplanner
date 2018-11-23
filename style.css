@@ -1,0 +1,20 @@
+.main{
+	position: absolute;top:0;left: 0;width:100%;
+
+}
+.navbr{
+	position: relative; background-color: rgb(194,84,121);height: 90px;width: 100%;
+}
+.nav{
+	background-color:  rgb(194,84,121);display: inline-block;font-size: 30px;padding: 20px;
+}
+ul{
+	list-style-type: none;float: right;
+}
+a
+{
+	text-decoration: none;color: white;
+}
+.select{
+	height: 200px; width: 500px;padding: 14px
+}
